@@ -1,0 +1,76 @@
+nav li {
+    display: inline block;
+    float: right;
+    list-style: none;
+    padding: 10px;
+}
+
+table {
+ width: 100%;
+ 
+}
+
+th, td {
+    text-align: center;
+}
+
+img {
+    width: auto;
+}
+
+
+
+.negrita1 {
+    font-weight: bold;
+    font-size: 40px;
+    color: blueviolet;
+}
+
+.cursiva1 {
+    font-style: italic;
+    color: blueviolet;
+}
+
+.negrita2 {
+    font-weight: bold;
+    font-size: 40px;
+    color: red;
+}
+
+.cursiva2 {
+    font-style: italic;
+    color: red;
+}
+
+.negrita3 {
+    font-weight: bold;
+    font-size: 40px;
+    color: yellow
+}
+
+.cursiva3 {
+    font-style: italic;
+    color: yellow
+}
+
+.negrita4 {
+    font-weight: bold;
+    font-size: 40px;
+    color: green;
+}
+
+.cursiva4 {
+    font-style: italic;
+    color: green;
+}
+
+.negrita5 {
+    font-weight: bold;
+    font-size: 40px;
+    color: pink;
+}
+
+.cursiva5 {
+    font-style: italic;
+    color: pink;
+}
